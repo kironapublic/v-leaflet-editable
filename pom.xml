@@ -2,12 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.vaadin.addon</groupId>
     <artifactId>v-leaflet-editable</artifactId>
-    <version>1.0.0-b3-SNAPSHOT</version>
+    <version>1.0.0-b3.kirona</version>
     <name>V-Leaflet-Editable</name>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <vaadin.version>7.6.2</vaadin.version>
+        <vaadin.version>7.6.4</vaadin.version>
         <geotools.version>10.2</geotools.version>
     </properties>
 
